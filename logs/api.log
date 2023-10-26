@@ -1,0 +1,288 @@
+25-10-2023 14:44:51.282 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+25-10-2023 14:44:51.293 [Gauge] [INFO] Initializing specs cache with 1 specs
+25-10-2023 14:44:51.293 [Gauge] [DEBUG] Adding specs from C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 14:44:51.293 [Gauge] [INFO] Initializing steps cache with 1 steps
+25-10-2023 14:44:51.293 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50484
+25-10-2023 14:44:51.299 [Gauge] [DEBUG] Watching directory: C:\Users\Geovision\Desktop\GaugeSelenium\specs
+25-10-2023 14:44:51.300 [Gauge] [DEBUG] Found 1 files
+25-10-2023 14:48:10.176 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 14:48:10.193 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:01:48.776 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:01:48.800 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:06:12.299 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:06:12.329 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:31:52.993 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:31:53.009 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+GetAllStepsRequest  messageId:2  allStepsRequest:{}
+25-10-2023 14:47:59.498 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage"  parameterizedStepValue:"Open the Gauge homepage"}  allSteps:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}  allSteps:{stepValue:"Ensure installation instructions are available"  parameterizedStepValue:"Ensure installation instructions are available"}}
+25-10-2023 14:47:59.499 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+25-10-2023 14:47:59.499 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+25-10-2023 14:48:10.176 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 14:48:10.193 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:01:48.776 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:01:48.802 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:05:52.779 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:05:52.780 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:05:53.162 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"s"}
+25-10-2023 15:05:53.163 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"s"  parameterizedStepValue:"s"}}
+25-10-2023 15:05:53.963 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"S"}
+25-10-2023 15:05:53.963 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"S"  parameterizedStepValue:"S"}}
+25-10-2023 15:05:55.800 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Sing Up"}
+25-10-2023 15:05:55.800 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sing Up"  parameterizedStepValue:"Sing Up"}}
+25-10-2023 15:06:00.581 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:06:00.582 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:06:00.592 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:06:00.592 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:06:00.718 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:06:00.718 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:06:00.719 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:06:00.719 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:06:00.811 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:06:00.811 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:06:00.811 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:06:00.811 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:06:00.889 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:06:00.889 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:06:00.954 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:06:00.955 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:06:00.959 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:06:00.960 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:06:01.094 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:06:01.094 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:06:01.095 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:06:01.095 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:06:01.268 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+25-10-2023 15:06:01.268 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Go to Website"  parameterizedStepValue:"Go to Website"}}
+25-10-2023 15:06:01.268 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+25-10-2023 15:06:01.268 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+25-10-2023 15:06:12.298 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:06:12.320 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:09:26.859 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Register"}
+25-10-2023 15:09:26.859 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Register"  parameterizedStepValue:"Register"}}
+25-10-2023 15:31:49.789 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:31:49.797 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:31:50.145 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"R"}
+25-10-2023 15:31:50.145 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"R"  parameterizedStepValue:"R"}}
+25-10-2023 15:31:50.165 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+25-10-2023 15:31:50.166 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Go to Website"  parameterizedStepValue:"Go to Website"}  allSteps:{stepValue:"Sing Up"  parameterizedStepValue:"Sing Up"}}
+25-10-2023 15:31:50.166 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+25-10-2023 15:31:50.167 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+25-10-2023 15:31:52.993 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:31:53.008 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:35:20.931 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+25-10-2023 15:35:20.961 [Gauge] [INFO] Initializing specs cache with 1 specs
+25-10-2023 15:35:20.961 [Gauge] [DEBUG] Adding specs from C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:35:20.961 [Gauge] [INFO] Initializing steps cache with 1 steps
+25-10-2023 15:35:20.961 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52348
+25-10-2023 15:35:20.984 [Gauge] [DEBUG] Watching directory: C:\Users\Geovision\Desktop\GaugeSelenium\specs
+25-10-2023 15:35:20.984 [Gauge] [DEBUG] Found 1 files
+25-10-2023 15:35:38.808 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Website"}
+25-10-2023 15:35:38.809 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Website"  parameterizedStepValue:"Go to Website"}}
+25-10-2023 15:35:38.829 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Sing Up"}
+25-10-2023 15:35:38.829 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sing Up"  parameterizedStepValue:"Sing Up"}}
+25-10-2023 15:35:38.829 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Register"}
+25-10-2023 15:35:38.829 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Register"  parameterizedStepValue:"Register"}}
+25-10-2023 15:37:10.095 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:37:10.095 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:37:10.295 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:37:10.295 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:37:11.348 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<"}
+25-10-2023 15:37:11.348 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"Dynamic parameter not terminated"}
+25-10-2023 15:37:11.468 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<"}
+25-10-2023 15:37:11.476 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"Dynamic parameter not terminated"}
+25-10-2023 15:37:12.251 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<>"}
+25-10-2023 15:37:12.251 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{}"  parameterizedStepValue:"<>"  parameters:""}}
+25-10-2023 15:37:28.418 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<second>"}
+25-10-2023 15:37:28.419 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{}"  parameterizedStepValue:"<second>"  parameters:"second"}}
+25-10-2023 15:37:30.876 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<second> "}
+25-10-2023 15:37:30.876 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{}"  parameterizedStepValue:"<second>"  parameters:"second"}}
+25-10-2023 15:37:33.162 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<second> kadar be"}
+25-10-2023 15:37:33.163 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} kadar be"  parameterizedStepValue:"<second> kadar be"  parameters:"second"}}
+25-10-2023 15:37:36.336 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<second> sa"}
+25-10-2023 15:37:36.337 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} sa"  parameterizedStepValue:"<second> sa"  parameters:"second"}}
+25-10-2023 15:37:37.829 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<second> saniye "}
+25-10-2023 15:37:37.829 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye"  parameterizedStepValue:"<second> saniye"  parameters:"second"}}
+25-10-2023 15:37:39.039 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<second> saniye kadar"}
+25-10-2023 15:37:39.039 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye kadar"  parameterizedStepValue:"<second> saniye kadar"  parameters:"second"}}
+25-10-2023 15:37:42.380 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<second> saniye kadar bekle"}
+25-10-2023 15:37:42.381 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye kadar bekle"  parameterizedStepValue:"<second> saniye kadar bekle"  parameters:"second"}}
+25-10-2023 15:37:43.833 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<second> saniye"}
+25-10-2023 15:37:43.833 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye"  parameterizedStepValue:"<second> saniye"  parameters:"second"}}
+25-10-2023 15:37:45.806 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<second> saniye bekle!"}
+25-10-2023 15:37:45.806 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye bekle!"  parameterizedStepValue:"<second> saniye bekle!"  parameters:"second"}}
+25-10-2023 15:37:47.479 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<second> saniye bekle"}
+25-10-2023 15:37:47.480 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye bekle"  parameterizedStepValue:"<second> saniye bekle"  parameters:"second"}}
+25-10-2023 15:37:52.232 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<second> saniye Bekle"}
+25-10-2023 15:37:52.232 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye Bekle"  parameterizedStepValue:"<second> saniye Bekle"  parameters:"second"}}
+25-10-2023 15:37:55.990 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<second> Saniye Bekle"}
+25-10-2023 15:37:55.991 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} Saniye Bekle"  parameterizedStepValue:"<second> Saniye Bekle"  parameters:"second"}}
+25-10-2023 15:39:48.012 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:39:48.050 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:39:52.644 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:39:52.674 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:39:52.911 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:52.912 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:52.918 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:52.919 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:53.070 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:53.070 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:53.071 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:53.071 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:53.192 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:53.192 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:53.193 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:53.193 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:53.222 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:53.222 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:53.511 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:53.512 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:53.516 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:53.516 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:53.626 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:53.626 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:53.626 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:53.627 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:53.825 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:53.826 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:54.438 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"w"}
+25-10-2023 15:39:54.439 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"w"  parameterizedStepValue:"w"}}
+25-10-2023 15:39:54.458 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+25-10-2023 15:39:54.459 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Go to Website"  parameterizedStepValue:"Go to Website"}  allSteps:{stepValue:"Sing Up"  parameterizedStepValue:"Sing Up"}  allSteps:{stepValue:"Register"  parameterizedStepValue:"Register"}}
+25-10-2023 15:39:54.464 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+25-10-2023 15:39:54.464 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+25-10-2023 15:39:55.880 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:55.880 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:55.883 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:55.884 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:55.985 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:55.986 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:55.986 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:55.987 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:56.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:39:56.178 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:39:57.562 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"b"}
+25-10-2023 15:39:57.562 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"b"  parameterizedStepValue:"b"}}
+25-10-2023 15:39:57.571 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+25-10-2023 15:39:57.571 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Go to Website"  parameterizedStepValue:"Go to Website"}  allSteps:{stepValue:"Sing Up"  parameterizedStepValue:"Sing Up"}  allSteps:{stepValue:"Register"  parameterizedStepValue:"Register"}}
+25-10-2023 15:39:57.572 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+25-10-2023 15:39:57.572 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+25-10-2023 15:40:02.037 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<secon> Saniye Bekle"}
+25-10-2023 15:40:02.037 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} Saniye Bekle"  parameterizedStepValue:"<secon> Saniye Bekle"  parameters:"secon"}}
+25-10-2023 15:40:02.543 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<seco> Saniye Bekle"}
+25-10-2023 15:40:02.543 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} Saniye Bekle"  parameterizedStepValue:"<seco> Saniye Bekle"  parameters:"seco"}}
+25-10-2023 15:40:02.558 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<sec> Saniye Bekle"}
+25-10-2023 15:40:02.559 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} Saniye Bekle"  parameterizedStepValue:"<sec> Saniye Bekle"  parameters:"sec"}}
+25-10-2023 15:40:02.584 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<se> Saniye Bekle"}
+25-10-2023 15:40:02.585 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} Saniye Bekle"  parameterizedStepValue:"<se> Saniye Bekle"  parameters:"se"}}
+25-10-2023 15:40:02.615 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<s> Saniye Bekle"}
+25-10-2023 15:40:02.616 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} Saniye Bekle"  parameterizedStepValue:"<s> Saniye Bekle"  parameters:"s"}}
+25-10-2023 15:40:02.951 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:40:02.951 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:40:05.000 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<5> Saniye Bekle"}
+25-10-2023 15:40:05.000 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} Saniye Bekle"  parameterizedStepValue:"<5> Saniye Bekle"  parameters:"5"}}
+25-10-2023 15:40:11.919 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:40:11.920 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:42:28.980 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+25-10-2023 15:42:28.981 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+25-10-2023 15:42:29.189 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<2> Saniye Bekle"}
+25-10-2023 15:42:29.190 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} Saniye Bekle"  parameterizedStepValue:"<2> Saniye Bekle"  parameters:"2"}}
+25-10-2023 15:42:31.572 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:42:31.589 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:43:17.583 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+25-10-2023 15:43:17.588 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+26-10-2023 09:07:19.146 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+26-10-2023 09:07:19.387 [Gauge] [INFO] Initializing specs cache with 1 specs
+26-10-2023 09:07:19.387 [Gauge] [DEBUG] Adding specs from C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+26-10-2023 09:07:19.387 [Gauge] [INFO] Initializing steps cache with 1 steps
+26-10-2023 09:07:19.387 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53318
+26-10-2023 09:07:19.424 [Gauge] [DEBUG] Watching directory: C:\Users\Geovision\Desktop\GaugeSelenium\specs
+26-10-2023 09:07:19.424 [Gauge] [DEBUG] Found 1 files
+26-10-2023 09:07:34.518 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Website"}
+26-10-2023 09:07:34.526 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Website"  parameterizedStepValue:"Go to Website"}}
+26-10-2023 09:07:34.536 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Sing Up"}
+26-10-2023 09:07:34.542 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sing Up"  parameterizedStepValue:"Sing Up"}}
+26-10-2023 09:07:34.543 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Register"}
+26-10-2023 09:07:34.544 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Register"  parameterizedStepValue:"Register"}}
+26-10-2023 10:08:09.404 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+26-10-2023 11:27:59.586 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+26-10-2023 12:31:30.629 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+26-10-2023 14:07:32.630 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+26-10-2023 15:18:05.584 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+27-10-2023 09:17:18.614 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+27-10-2023 09:17:18.674 [Gauge] [INFO] Initializing specs cache with 1 specs
+27-10-2023 09:17:18.674 [Gauge] [DEBUG] Adding specs from C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+27-10-2023 09:17:18.674 [Gauge] [INFO] Initializing steps cache with 1 steps
+27-10-2023 09:17:18.674 [Gauge] [INFO] Gauge daemon initialized and listening on port: 59994
+27-10-2023 09:17:18.689 [Gauge] [DEBUG] Watching directory: C:\Users\Geovision\Desktop\GaugeSelenium\specs
+27-10-2023 09:17:18.689 [Gauge] [DEBUG] Found 1 files
+27-10-2023 09:17:52.356 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Website"}
+27-10-2023 09:17:52.356 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Website"  parameterizedStepValue:"Go to Website"}}
+27-10-2023 09:17:55.750 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Sing Up"}
+27-10-2023 09:17:55.750 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sing Up"  parameterizedStepValue:"Sing Up"}}
+27-10-2023 09:17:57.054 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Register"}
+27-10-2023 09:17:57.054 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Register"  parameterizedStepValue:"Register"}}
+27-10-2023 09:29:34.095 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+27-10-2023 09:29:34.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+27-10-2023 09:29:34.597 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+27-10-2023 09:29:34.597 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+27-10-2023 09:29:34.772 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+27-10-2023 09:29:34.773 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+27-10-2023 09:29:38.954 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"web sieye git"}
+27-10-2023 09:29:38.954 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"web sieye git"  parameterizedStepValue:"web sieye git"}}
+27-10-2023 09:29:41.937 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"web siteye git"}
+27-10-2023 09:29:41.937 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"web siteye git"  parameterizedStepValue:"web siteye git"}}
+27-10-2023 09:30:12.174 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+27-10-2023 09:30:12.224 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+27-10-2023 09:30:14.066 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+27-10-2023 09:30:14.069 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+27-10-2023 09:30:23.322 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+27-10-2023 09:30:23.323 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+27-10-2023 09:30:23.339 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+27-10-2023 09:30:23.340 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+27-10-2023 09:30:23.552 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+27-10-2023 09:30:23.552 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+27-10-2023 09:30:23.554 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+27-10-2023 09:30:23.555 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+27-10-2023 09:30:23.642 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+27-10-2023 09:30:23.642 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+27-10-2023 09:30:23.688 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+27-10-2023 09:30:23.689 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+27-10-2023 09:30:23.689 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+27-10-2023 09:30:23.690 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+27-10-2023 09:30:23.858 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+27-10-2023 09:30:23.859 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+27-10-2023 09:30:23.866 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+27-10-2023 09:30:23.867 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+27-10-2023 09:30:24.000 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+27-10-2023 09:30:24.001 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+27-10-2023 09:30:24.001 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+27-10-2023 09:30:24.002 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+27-10-2023 09:30:24.171 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+27-10-2023 09:30:24.171 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+27-10-2023 09:30:25.118 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"w"}
+27-10-2023 09:30:25.118 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"w"  parameterizedStepValue:"w"}}
+27-10-2023 09:30:25.149 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+27-10-2023 09:30:25.151 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Go to Website"  parameterizedStepValue:"Go to Website"}  allSteps:{stepValue:"Sing Up"  parameterizedStepValue:"Sing Up"}  allSteps:{stepValue:"Register"  parameterizedStepValue:"Register"}}
+27-10-2023 09:30:25.158 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+27-10-2023 09:30:25.158 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+27-10-2023 09:30:25.391 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"we"}
+27-10-2023 09:30:25.391 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"we"  parameterizedStepValue:"we"}}
+27-10-2023 10:20:49.497 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+27-10-2023 10:20:49.531 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+27-10-2023 10:28:04.336 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+27-10-2023 10:28:04.357 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+27-10-2023 11:28:42.123 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+27-10-2023 12:52:09.426 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+27-10-2023 13:45:19.959 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+27-10-2023 13:45:19.977 [Gauge] [INFO] Initializing specs cache with 1 specs
+27-10-2023 13:45:19.977 [Gauge] [DEBUG] Adding specs from C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+27-10-2023 13:45:19.977 [Gauge] [INFO] Initializing steps cache with 1 steps
+27-10-2023 13:45:19.977 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52148
+27-10-2023 13:45:19.989 [Gauge] [DEBUG] Watching directory: C:\Users\Geovision\Desktop\GaugeSelenium\specs
+27-10-2023 13:45:19.989 [Gauge] [DEBUG] Found 1 files
+27-10-2023 13:45:53.403 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Website"}
+27-10-2023 13:45:53.403 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Website"  parameterizedStepValue:"Go to Website"}}
+27-10-2023 13:45:53.581 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Sing Up"}
+27-10-2023 13:45:53.581 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sing Up"  parameterizedStepValue:"Sing Up"}}
+27-10-2023 13:45:54.369 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Register"}
+27-10-2023 13:45:54.369 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Register"  parameterizedStepValue:"Register"}}
