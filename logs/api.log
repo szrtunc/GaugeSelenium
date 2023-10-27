@@ -286,3 +286,11 @@ GetAllStepsRequest  messageId:2  allStepsRequest:{}
 27-10-2023 13:45:53.581 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sing Up"  parameterizedStepValue:"Sing Up"}}
 27-10-2023 13:45:54.369 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Register"}
 27-10-2023 13:45:54.369 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Register"  parameterizedStepValue:"Register"}}
+27-10-2023 14:14:43.158 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+27-10-2023 14:51:59.620 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+27-10-2023 14:51:59.630 [Gauge] [INFO] Initializing specs cache with 1 specs
+27-10-2023 14:51:59.630 [Gauge] [DEBUG] Adding specs from C:\Users\Geovision\Desktop\GaugeSelenium\specs\example.spec
+27-10-2023 14:51:59.630 [Gauge] [INFO] Initializing steps cache with 1 steps
+27-10-2023 14:51:59.630 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53633
+27-10-2023 14:51:59.641 [Gauge] [DEBUG] Watching directory: C:\Users\Geovision\Desktop\GaugeSelenium\specs
+27-10-2023 14:51:59.642 [Gauge] [DEBUG] Found 1 files
