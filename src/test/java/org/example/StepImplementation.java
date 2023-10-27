@@ -26,7 +26,8 @@ public class StepImplementation {
 
     @Step("Sing Up")
     public void signUpMethod() throws InterruptedException{
-        webPage.signUpButton.isDisplayed();
+        WebElement x=driver.findElement(By.xpath("//input[@id='email']"));
+        x.isDisplayed();
         webPage.signUpButton.sendKeys(ConfigReader.getProperty("email"));
         driver.findElement(By.xpath("//img[@id='enterimg']")).click();
     }
